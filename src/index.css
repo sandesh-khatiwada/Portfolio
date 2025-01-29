@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #ffffff; /* White text for contrast */
+  font-family: 'Roboto', sans-serif; /* Material UI font */
+}
+
+#root {
+  width: 100%;
+  min-height: 100vh;
+}
+
+@keyframes moveTop {
+  0% {
+    transform: translateX(0);
+  }
+  50% {
+    transform: translateY(-40px); /* Move Top */
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
