@@ -8,6 +8,7 @@ Welcome to my **Personal Portfolio**! This project showcases my skills, projects
 - **UI Library:** Material UI
 - **Animations:** Framer Motion
 - **Styling:** Custom Material UI components
+- **Email Service:** EmailJS
 
 
 ## 🎥 Live Demo
